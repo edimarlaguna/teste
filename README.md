@@ -95,6 +95,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/06/Jpnewstv2022.webp" group-title="Jornalismo",Jovem Pan News HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FILMES SÉRIES",GLN FILMES HD
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w599414090.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FILMES SÉRIES",Cine Tv Hits HD
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1470635494.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="WebTV", Nick Junior (Aberto - Youtube)
 https://ythlsgo.onrender.com/video/oIBqtmltyxo.m3u8
 
