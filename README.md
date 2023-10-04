@@ -92,8 +92,27 @@ https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="JORNALISMO",Record News² HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/06/Jpnewstv2022.webp" group-title="Jornalismo",Jovem Pan News HD
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/06/Jpnewstv2022.webp" group-title="JORNALISMO",Jovem Pan News HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS SPORTV",SporTV FHD
+http://axr.life:80/182979/288329/1263703
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS SPORTV",SporTV HD
+http://axr.life:80/182979/288329/1263702
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS SPORTV",SporTV SD
+http://axr.life:80/182979/288329/1263701
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS SPORTV",SporTV2 FHD
+http://axr.life:80/182979/288329/1263706
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV2 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS SPORTV",SporTV2 HD
+http://axr.life:80/182979/288329/1263705
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV2 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS SPORTV",SporTV2 SD
+http://axr.life:80/182979/288329/1263704
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV3 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS SPORTV",SporTV3 FHD
+http://axr.life:80/182979/288329/1263709
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV3 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS SPORTV",SporTV3 HD
+http://axr.life:80/182979/288329/1263708
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV3 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS SPORTV",SporTV3 SD
+http://axr.life:80/182979/288329/1263707
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FILMES SÉRIES",GLN FILMES HD
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w599414090.m3u8
