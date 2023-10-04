@@ -114,6 +114,49 @@ http://axr.life:80/182979/288329/1263708
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV3 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS SPORTV",SporTV3 SD
 http://axr.life:80/182979/288329/1263707
 
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS PREMIERE",Premiere 2 FHD
+http://axr.life:80/182979/288329/1263682
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS PREMIERE",Premiere 2 HD
+http://axr.life:80/182979/288329/1263681
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS PREMIERE",Premiere 2 SD
+http://axr.life:80/182979/288329/1263680
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS PREMIERE",Premiere 3 FHD
+http://axr.life:80/182979/288329/1263685
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS PREMIERE",Premiere 3 HD
+http://axr.life:80/182979/288329/1263684
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS PREMIERE",Premiere 3 SD
+http://axr.life:80/182979/288329/1263683
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS PREMIERE",Premiere 4 FHD
+http://axr.life:80/182979/288329/1263688
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS PREMIERE",Premiere 4 HD
+http://axr.life:80/182979/288329/1263687
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS PREMIERE",Premiere 4 SD
+http://axr.life:80/182979/288329/1263686
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS PREMIERE",Premiere 5 FHD
+http://axr.life:80/182979/288329/1263691
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS PREMIERE",Premiere 5 HD
+http://axr.life:80/182979/288329/1263690
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS PREMIERE",Premiere 5 SD
+http://axr.life:80/182979/288329/1263689
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS PREMIERE",Premiere 6 FHD
+http://axr.life:80/182979/288329/1263694
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS PREMIERE",Premiere 6 HD
+http://axr.life:80/182979/288329/1263693
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS PREMIERE",Premiere 6 SD
+http://axr.life:80/182979/288329/1263692
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS PREMIERE",Premiere 7 FHD
+http://axr.life:80/182979/288329/1263697
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS PREMIERE",Premiere 7 HD
+http://axr.life:80/182979/288329/1263696
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS PREMIERE",Premiere 7 SD
+http://axr.life:80/182979/288329/1263695
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS PREMIERE",Premiere Clubes FHD
+http://axr.life:80/182979/288329/1263700
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS PREMIERE",Premiere Clubes HD
+http://axr.life:80/182979/288329/1263699
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS PREMIERE",Premiere Clubes SD
+http://axr.life:80/182979/288329/1263698
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FILMES SÉRIES",GLN FILMES HD
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w599414090.m3u8
 
