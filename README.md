@@ -2,8 +2,37 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="CANAIS ABERTOS",UNISUL TV TUBARÃO
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA(MANUTENÇÃO)
 http://191.37.250.169:8801/live/NSC/720p.m3u8
+
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD" tvg-logo="[https://loopstatic.net/globo.png](https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png)" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83500
+
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162775
+
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",NSC GLOBO TV Blumenau FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162778
+
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",NSC GLOBO TV Centro Oeste FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/193334
+
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias SD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Caxias SD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147414
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Pelotas SD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147415
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Porto Alegre FHD [Alt]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147381
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Porto Alegre HD [Alt]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147382
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Santa Maria HD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Santa Maria HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147416
+
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RJ FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83502
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RJ HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83459
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",GLOBO BA
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
@@ -693,7 +722,6 @@ https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="Música",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="Música",PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="Música",TIERRA MIA TV
@@ -702,3 +730,224 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="Música",RADIO 21
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="For Man HD" tvg-logo="https://www.newslinereport.com/online/nota_nuevo-look--feel-para-for-man.jpg" group-title="Canais | Adultos",For Man HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83287
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy FHD" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147354
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy FHD [Alt]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy FHD [Alt]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147749
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy HD" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83286
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy HD [Alt]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy HD [Alt]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147750
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy TV FHD [H265]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy TV FHD [H265]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/163287
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy TV SD" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy TV SD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83598
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Anal" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Anal
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149398
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Big Ass" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Big Ass
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149385
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Big Dick" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Big Dick
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149381
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Big Tits" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Big Tits
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149382
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Blonde" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Blonde
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149401
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Blowjob" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Blowjob
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149389
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Brunette" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Brunette
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149400
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Compilation" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Compilation
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149399
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Cuckold" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Cuckold
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149392
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Fetish" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Fetish
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149383
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Gangbang" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Gangbang
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149397
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Gay" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Gay
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149402
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Hardcore" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Hardcore
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149391
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Interracial" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Interracial
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149386
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Latina" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Latina
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149387
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Lesbian" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Lesbian
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149395
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Live Cams" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Live Cams
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149379
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV MILF" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV MILF
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149380
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Pornstar" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Pornstar
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149384
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV POV" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV POV
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149388
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Rough" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Rough
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149396
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Russian" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Russian
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149394
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Teen" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Teen
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149390
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Threesome" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",RedTraffic TV Threesome
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/149393
+#EXTINF:-1 tvg-id="SexPrivé" tvg-name="Sex Prive FHD" tvg-logo="https://i.imgur.com/yBfK9sV.png" group-title="Canais | Adultos",Sex Prive FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147751
+#EXTINF:-1 tvg-id="SexPrivé" tvg-name="Sex Prive HD" tvg-logo="https://i.imgur.com/yBfK9sV.png" group-title="Canais | Adultos",Sex Prive HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83283
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme HD" tvg-logo="https://i.imgur.com/x5sNalb.png" group-title="Canais | Adultos",Sextreme HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/140651
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme SD" tvg-logo="https://i.imgur.com/x5sNalb.png" group-title="Canais | Adultos",Sextreme SD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83444
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot FHD [Alt]" tvg-logo="https://i.imgur.com/7PIynwa.png" group-title="Canais | Adultos",Sexy Hot FHD [Alt]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147753
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot HD [Alt]" tvg-logo="https://i.imgur.com/7PIynwa.png" group-title="Canais | Adultos",Sexy Hot HD [Alt]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147754
+#EXTINF:-1 tvg-id="AE" tvg-name="VENUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais | Adultos",VENUS FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/276478
+#EXTINF:-1 tvg-id="" tvg-name="VENUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais | Adultos",VENUS HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/276479
+#EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais | Adultos",VENUS SD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/276480
+#EXTINF:-1 tvg-id="" tvg-name="Visit-X TV HD" tvg-logo="https://i.imgur.com/lsvXumb.png" group-title="Canais | Adultos",Visit-X TV HD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/141034
+#EXTINF:-1 tvg-id="" tvg-name="XXX 4K Brasileirinhas: Contos do Big" tvg-logo="https://i.imgur.com/BnzVMmS.png" group-title="Canais | Adultos",XXX 4K Brasileirinhas: Contos do Big
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83765
+#EXTINF:-1 tvg-id="" tvg-name="XXX 4K Brasileirinhas: Contos Eróticos" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX 4K Brasileirinhas: Contos Eróticos
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83280
+#EXTINF:-1 tvg-id="" tvg-name="XXX A Casa das Brasileirinhas Vol. 62" tvg-logo="https://i.imgur.com/BnzVMmS.png" group-title="Canais | Adultos",XXX A Casa das Brasileirinhas Vol. 62
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152671
+#EXTINF:-1 tvg-id="" tvg-name="XXX A Casa das Brasileirinhas Vol. 63" tvg-logo="https://i.imgur.com/BnzVMmS.png" group-title="Canais | Adultos",XXX A Casa das Brasileirinhas Vol. 63
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152672
+#EXTINF:-1 tvg-id="" tvg-name="XXX Abella Danger" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Abella Danger
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162851
+#EXTINF:-1 tvg-id="" tvg-name="XXX Alessandra Marques" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Alessandra Marques
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162904
+#EXTINF:-1 tvg-id="" tvg-name="XXX Alexandre Frota" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Alexandre Frota
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162977
+#EXTINF:-1 tvg-id="" tvg-name="XXX Aline Rios" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Aline Rios
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162903
+#EXTINF:-1 tvg-id="" tvg-name="XXX Ana Julia" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Ana Julia
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162906
+#EXTINF:-1 tvg-id="" tvg-name="XXX Analine" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Analine
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162948
+#EXTINF:-1 tvg-id="" tvg-name="XXX Asiaticas 01" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Asiaticas 01
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162976
+#EXTINF:-1 tvg-id="" tvg-name="XXX Asiaticas 02" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Asiaticas 02
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162975
+#EXTINF:-1 tvg-id="" tvg-name="XXX Asiaticas 03" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Asiaticas 03
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162974
+#EXTINF:-1 tvg-id="" tvg-name="XXX Asiaticas 04" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Asiaticas 04
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162973
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 01" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 01
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162950
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 02" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 02
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162951
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 03" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 03
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162952
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 04" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 04
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162953
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 05" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 05
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162954
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 06" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 06
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162955
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 07" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 07
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162956
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 08" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 08
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162957
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 09" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 09
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162958
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 10" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 10
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162959
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 11" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 11
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162971
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 12" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Brad Montana 12
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162972
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brazzers 01 FHD" tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais | Adultos",XXX Brazzers 01 FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151881
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brazzers 02 FHD" tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais | Adultos",XXX Brazzers 02 FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152057
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brazzers 03 FHD" tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais | Adultos",XXX Brazzers 03 FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152058
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brazzers 04 FHD" tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais | Adultos",XXX Brazzers 04 FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152059
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brazzers 05 FHD" tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais | Adultos",XXX Brazzers 05 FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152060
+#EXTINF:-1 tvg-id="" tvg-name="XXX Brazzers 06 FHD" tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais | Adultos",XXX Brazzers 06 FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152061
+#EXTINF:-1 tvg-id="" tvg-name="XXX Carol Fenix" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Carol Fenix
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83290
+#EXTINF:-1 tvg-id="" tvg-name="XXX Esposa Heyya [amador]" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Esposa Heyya [amador]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162907
+#EXTINF:-1 tvg-id="" tvg-name="XXX Fernandinha Fernandez" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Fernandinha Fernandez
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162905
+#EXTINF:-1 tvg-id="" tvg-name="XXX Gina Jolie" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Gina Jolie
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162908
+#EXTINF:-1 tvg-id="" tvg-name="XXX Julia Mattos" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Julia Mattos
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/163032
+#EXTINF:-1 tvg-id="" tvg-name="XXX Julia Paes" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Julia Paes
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162913
+#EXTINF:-1 tvg-id="" tvg-name="XXX Julianna Vega" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Julianna Vega
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162911
+#EXTINF:-1 tvg-id="" tvg-name="XXX Loupan" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Loupan
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162912
+#EXTINF:-1 tvg-id="" tvg-name="XXX Manu Fox" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Manu Fox
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83279
+#EXTINF:-1 tvg-id="" tvg-name="XXX Mia Linz" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Mia Linz
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/163033
+#EXTINF:-1 tvg-id="" tvg-name="XXX Mofos Latina Sex FHD" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Mofos Latina Sex FHD
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151325
+#EXTINF:-1 tvg-id="Star Hits 1" tvg-name="XXX Monica Santiago" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Monica Santiago
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83620
+#EXTINF:-1 tvg-id="" tvg-name="XXX Nicolle Bittencourt" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Nicolle Bittencourt
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83761
+#EXTINF:-1 tvg-id="" tvg-name="XXX Pamela Pantera" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Pamela Pantera
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83760
+#EXTINF:-1 tvg-id="" tvg-name="XXX Rafaela Nakamura" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Rafaela Nakamura
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/163276
+#EXTINF:-1 tvg-id="" tvg-name="XXX Rita Cadillac 01" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Rita Cadillac 01
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83767
+#EXTINF:-1 tvg-id="" tvg-name="XXX Rita Cadillac 02" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Rita Cadillac 02
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83766
+#EXTINF:-1 tvg-id="" tvg-name="XXX Show de Bundas 01" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Show de Bundas 01
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83764
+#EXTINF:-1 tvg-id="" tvg-name="XXX Show de Bundas 02" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Show de Bundas 02
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83763
+#EXTINF:-1 tvg-id="" tvg-name="XXX Thammy Gretchen" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Thammy Gretchen
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162910
+#EXTINF:-1 tvg-id="" tvg-name="XXX Wanessa Boyer" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Wanessa Boyer
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162949
+#EXTINF:-1 tvg-id="" tvg-name="XXX Yara Rocha" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Yara Rocha
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/163275
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | BangBros 01" tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais | Adultos",XXX | 4K | BangBros 01
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152325
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | BangBros 02" tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais | Adultos",XXX | 4K | BangBros 02
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152326
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | BangBros 03" tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais | Adultos",XXX | 4K | BangBros 03
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152327
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | BangBros 04" tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais | Adultos",XXX | 4K | BangBros 04
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152328
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | CarnaFunk 2019" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX | 4K | CarnaFunk 2019
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162978
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 01 " tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 01 
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151528
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 02" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 02
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151675
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 03" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 03
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151676
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 04" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 04
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151677
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 05" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 05
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151678
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 06" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 06
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151873
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 07" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 07
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151874
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 08" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 08
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151875
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 09" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 09
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/151876
+#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K | Holed 10" tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais | Adultos",XXX | 4K | Holed 10
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152062
