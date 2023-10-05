@@ -4,19 +4,12 @@
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA(MANUTENÇÃO)
 http://191.37.250.169:8801/live/NSC/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83500
-
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA FHD
-http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162775
-
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",NSC GLOBO TV Blumenau FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162778
-
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",NSC GLOBO TV Centro Oeste FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/193334
-
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias SD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Caxias SD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147414
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Pelotas SD
@@ -27,25 +20,18 @@ http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147381
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147382
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Santa Maria HD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Santa Maria HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147416
-
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RJ FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83502
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RJ HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83459
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",GLOBO BA
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFuVr5O.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1840072742.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS ABERTOS",SBT 
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="CANAIS ABERTOS",SBT RS
 https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS ABERTOS", SBT - TV Cidade Verde - (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
