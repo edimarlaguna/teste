@@ -5,7 +5,7 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=47920348805539080
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA(MANUTENÇÃO)
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD" tvg-logo="[https://loopstatic.net/globo.png](https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png)" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83500
 
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA FHD
@@ -192,15 +192,10 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w599414090.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FILMES SÉRIES",Cine Tv Hits HD
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1470635494.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="WebTV", Nick Junior (Aberto - Youtube)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="WEBTV", Nick Junior (Aberto - Youtube)
 https://ythlsgo.onrender.com/video/oIBqtmltyxo.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/cartoon.webp" group-title="WebTV", Cartoon (Cortesia - Site oficial)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/cartoon.webp" group-title="WEBTV", Cartoon (Cortesia - Site oficial)
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",Kpop TV Play
@@ -212,42 +207,42 @@ https://ythlsgo.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png" group-title="Variedades",PlayTV
 https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/geekdot.png" group-title="WebTV", Geekdot
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/geekdot.png" group-title="WEBTV", Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="WebTV", Chaves
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="WEBTV", Chaves
 http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/Chespirito.png" group-title="WebTV", Chespirito
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/Chespirito.png" group-title="WEBTV", Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/pooptv.png" group-title="WebTV", Poop TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/pooptv.png" group-title="WEBTV", Poop TV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/start-1.png" group-title="WebTV", Start - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/start-1.png" group-title="WEBTV", Start - WebTV
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="WebTV", XTreme
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="WEBTV", XTreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="WebTV", Anime TV - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="WEBTV", Anime TV - WebTV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="WebTV",Loading - Web TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="WEBTV",Loading - Web TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/kids.png" group-title="WebTV", Kids Mais
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/kids.png" group-title="WEBTV", Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="WebTV", Jetsons - Webtv
+#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="WEBTV", Jetsons - Webtv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/Caverna_do_Dragao_Logo.jpg" group-title="WebTV", Caverna do Dragão (Youtube)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/Caverna_do_Dragao_Logo.jpg" group-title="WEBTV", Caverna do Dragão (Youtube)
 https://ythlsgo.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/odiatv.png" group-title="WebTV", O DIA TV (Youtube)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/odiatv.png" group-title="WEBTV", O DIA TV (Youtube)
 https://ythlsgo.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Pública", TV Brasil  Web
@@ -313,10 +308,10 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Infantil", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="WebTV",AWTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="WEBTV",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="WebTV",Vintage TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="WEBTV",Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="Pública", Rede Minas
@@ -361,7 +356,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Pública",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/otaku-1.jpg" group-title="WebTV", Otaku Sign TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/otaku-1.jpg" group-title="WEBTV", Otaku Sign TV
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="Variedades", Rede Brasil - TV Marajoara (PA)
@@ -445,16 +440,16 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Variedades", Rede UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="WebTV", Via Morena
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="WEBTV", Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="WebTV", TV Pantanal MS - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="WEBTV", TV Pantanal MS - WebTV
 https://59d39900ebfb8.streamlock.net/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="Variedades", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="WebTV", Rede TV Sul - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="WEBTV", Rede TV Sul - WebTV
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Variedades", TV MAX
@@ -463,16 +458,16 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" group-title="Variedades", RDC
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="WebTV", TV Aracati
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="WEBTV", TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg" group-title="WebTV", TV Birigui
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg" group-title="WEBTV", TV Birigui
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Variedades", TV Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/samhost.tvcarioca.png" group-title="WebTV", TV Carioca
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/samhost.tvcarioca.png" group-title="WEBTV", TV Carioca
 https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="Pública", SescTV HD
@@ -493,13 +488,13 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Variedades",ISTV
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="WebTV", Canal 29 - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="WEBTV", Canal 29 - WebTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="WebTV", Bons Tempos TV - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="WEBTV", Bons Tempos TV - WebTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="WebTV", TV Destak - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="WEBTV", TV Destak - WebTV
 https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="WebTV", TV Séries - WebTV
@@ -520,7 +515,7 @@ https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmae.png" group-title="Variedades",TV Mar (Indisponível)
 https://www.dailymotion.com/cdn/live/video/x8i500l.m3u8?sec=EdEK98EsU879NMNKwraNgdgo7XTLIWDFr35UbTQ-p8FG1dWcBxJR0z96CWFwnHE6&dmTs=489752&dmV1st=88aac2b6-0c8c-4560-a4f9-80ffdee5ad3b
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png" group-title="WebTV", TV Sjid (BA)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png" group-title="WEBTV", TV Sjid (BA)
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Pública",TV Faap
@@ -538,7 +533,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Variedades",AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="WebTV", TV Gallo - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="WEBTV", TV Gallo - WebTV
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="Variedades",TV Santa Cecília (SP)
@@ -637,10 +632,6 @@ http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="CANAIS DO BRASIL", TV SUL DE MINAS
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="CANAIS DO BRASIL", TV PADRE CICERO
 https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="CANAIS DO BRASIL", SAO RAIMUNDO TV
@@ -675,8 +666,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/play
 https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="CANAIS DO BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/aJ4SLA5.png" group-title="CANAIS DO BRASILL",WEB TV ESCRIBA DO AMAPA
-https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/4GUweIZ.png" group-title="CANAIS DO BRASIL",WEB TV CAICO
 https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yzDFalj.png" group-title="CANAIS DO BRASIL",SRTV PB
