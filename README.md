@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="CANAIS ABERTOS",UNISUL TV TUBARÃO
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA(MANUTENÇÃO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS ABERTOS",NSC GLOBO FLORIPA HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83500
@@ -14,9 +14,9 @@ http://splaytv.club:80/troca-p2/VAj9zkp0Ah/193334
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147414
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Pelotas SD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147415
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Porto Alegre FHD [Alt]
+
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147381
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Porto Alegre HD [Alt]
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Porto Alegre HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147382
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Santa Maria HD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS ABERTOS",GB RBS TV Santa Maria HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147416
@@ -711,13 +711,13 @@ https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83287
 #EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy FHD" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147354
-#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy FHD [Alt]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy FHD [Alt]
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy FHD [Alt]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147749
 #EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy HD" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83286
-#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy HD [Alt]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy HD [Alt]
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy HD [Alt]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147750
-#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy TV FHD [H265]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy TV FHD [H265]
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy TV FHD [H265]" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy TV FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/163287
 #EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy TV SD" tvg-logo="https://i.imgur.com/tggY2RN.png" group-title="Canais | Adultos",Playboy TV SD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83598
@@ -777,9 +777,9 @@ http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83283
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/140651
 #EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme SD" tvg-logo="https://i.imgur.com/x5sNalb.png" group-title="Canais | Adultos",Sextreme SD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83444
-#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot FHD [Alt]" tvg-logo="https://i.imgur.com/7PIynwa.png" group-title="Canais | Adultos",Sexy Hot FHD [Alt]
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot FHD [Alt]" tvg-logo="https://i.imgur.com/7PIynwa.png" group-title="Canais | Adultos",Sexy Hot FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147753
-#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot HD [Alt]" tvg-logo="https://i.imgur.com/7PIynwa.png" group-title="Canais | Adultos",Sexy Hot HD [Alt]
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot HD [Alt]" tvg-logo="https://i.imgur.com/7PIynwa.png" group-title="Canais | Adultos",Sexy Hot HD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/147754
 #EXTINF:-1 tvg-id="AE" tvg-name="VENUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais | Adultos",VENUS FHD
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/276478
@@ -855,7 +855,7 @@ http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152060
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/152061
 #EXTINF:-1 tvg-id="" tvg-name="XXX Carol Fenix" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Carol Fenix
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83290
-#EXTINF:-1 tvg-id="" tvg-name="XXX Esposa Heyya [amador]" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Esposa Heyya [amador]
+#EXTINF:-1 tvg-id="" tvg-name="XXX Esposa Heyya [amador]" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Esposa Heyya AMADOR
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162907
 #EXTINF:-1 tvg-id="" tvg-name="XXX Fernandinha Fernandez" tvg-logo="https://i.imgur.com/w0tNyuJ.png" group-title="Canais | Adultos",XXX Fernandinha Fernandez
 http://splaytv.club:80/troca-p2/VAj9zkp0Ah/162905
